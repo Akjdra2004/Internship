@@ -1,0 +1,17 @@
+th,tr{
+    color: rgb(0, 111, 238);
+}
+.hello
+{
+    color:red;
+    border: 2px solid black;
+    width: 34%;
+    background-color: green;
+    margin-left: 80px;
+    padding-left: 20px;
+    /*float:right;*/         
+}
+#second
+{
+    color: blue;
+}
